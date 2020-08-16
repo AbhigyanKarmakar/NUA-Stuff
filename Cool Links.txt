@@ -1,0 +1,20 @@
+------------------------TEMPLATE METAPROGRAMMING INSIGHTS-------------------------
+https://www.modernescpp.com/index.php/c-core-guidelines-rules-for-template-metaprogramming
+
+------------------------BML (Boost Meta Programming Library)----------------------
+https://www.boost.org/doc/libs/1_31_0/libs/mpl/doc/paper/mpl_paper.html
+
+
+---------------------------------FOLD EXPRESSIONS---------------------------------
+https://foonathan.net/2020/05/fold-tricks/
+http://cpptruths.blogspot.com/2016/12/understanding-fold-expressions.html
+
+
+--------------------------------GENERAL C++ DEV-----------------------------------
+This is a pretty good paper/article although pretty long :(    
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+
+-----------------------Internals of Template Arg Deduction------------------------
+https://en.cppreference.com/w/cpp/language/template_argument_deduction
+https://accu.org/index.php/journals/2465 (CTAD Glance)
+https://en.cppreference.com/w/cpp/language/class_template_argument_deduction (CTAD RULES BREAKDOWN)
