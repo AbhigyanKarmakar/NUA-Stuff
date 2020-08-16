@@ -18,3 +18,6 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 https://en.cppreference.com/w/cpp/language/template_argument_deduction
 https://accu.org/index.php/journals/2465 (CTAD Glance)
 https://en.cppreference.com/w/cpp/language/class_template_argument_deduction (CTAD RULES BREAKDOWN)
+
+---------------------------TALK BY BJARNE STROUSTRUP----------------------------
+https://www.youtube.com/watch?v=u_ij0YNkFUs  (A lil long but a great talk)
